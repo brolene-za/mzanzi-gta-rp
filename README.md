@@ -1,0 +1,1 @@
+This is the full MZANZI GTA RP server files before wipe. Still has all the custom cars before everything was removed. Everything you need is there, the SQL file just has a collation that you have to add.
